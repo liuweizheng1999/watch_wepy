@@ -1,0 +1,30 @@
+<style lang="less">
+
+</style>
+<template>
+  <view class="container">
+    this is liuweizheng dashazi
+  </view>
+</template>
+
+<script>
+  import wepy from 'wepy'
+
+  export default class Index extends wepy.page {
+    config = {
+      navigationBarTitleText: 'test'
+    }
+
+
+    data = {
+      
+    }
+
+    computed = {
+     
+    }
+
+    methods = {
+    }
+  }
+</script>
